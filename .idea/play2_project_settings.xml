@@ -3,14 +3,14 @@
   <component name="Play2ExcludedModulesSettings">
     <option name="INFO">
       <map>
-        <entry key="General_Bank_SD_and_PP">
+        <entry key="play-scala-rest-api-example">
           <value>
             <ProjectSettingsEntry>
-              <option name="playDistrPath" value="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.12/jars/play_2.12-2.6.2.jar" />
+              <option name="playDistrPath" value="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.11/jars/play_2.11-2.6.2.jar" />
             </ProjectSettingsEntry>
           </value>
         </entry>
-        <entry key="general_bank_sd_and_pp">
+        <entry key="root">
           <value>
             <ProjectSettingsEntry>
               <option name="confDir" value="C:\Users\lucas.zanferrari\IdeaProjects\General_Bank_SD_and_PP\app" />
